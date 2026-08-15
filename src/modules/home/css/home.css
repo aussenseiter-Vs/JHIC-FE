@@ -422,7 +422,7 @@
 .home-mitra {
   position: relative;
   overflow: hidden;
-  background: #fff;
+  background: #F5F5F5;
   padding: 45px 0;
 }
 
@@ -495,7 +495,7 @@
 .home-programs {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(180deg, #F8FAFC 0%, #FFFFFF 100%);
+  background: #F5F5F5;
 }
 
 .home-programs-container {
@@ -941,7 +941,7 @@
 .home-berita {
   position: relative;
   overflow: hidden;
-  background: #fff;
+  background: #F5F5F5;
 }
 
 .home-berita-container {
