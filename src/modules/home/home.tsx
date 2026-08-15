@@ -89,7 +89,7 @@ function Home() {
           pauseOnHover
           scaleOnHover
           fadeOut
-          fadeOutColor="#ffffff"
+          fadeOutColor="#F5F5F5"
           renderItem={(item) => {
             const logo = item as Extract<LogoItem, { src: string }>;
             return (
